@@ -39,6 +39,6 @@ int main()
 ```
 
 <!-- Картинки -->
-![markdown](https://ru.wikipedia.org/wiki/Markdown#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Markdown-mark.svg)
+![markdown](https://upload.wikimedia.org/wikipedia/commons/3/37/Markdown-mark-solid.svg)
 
 # TestMarkdown
