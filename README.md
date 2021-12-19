@@ -27,4 +27,15 @@ __Bold text__ and **other bold**
 <!-- Ссылки -->
 [Google](https://google.com)
 
+<!-- Оформление кода -->
+
+```C++
+#include<iostream>
+int main()
+{
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
+
 # TestMarkdown
